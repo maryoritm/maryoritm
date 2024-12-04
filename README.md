@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello, I'm Maryori. 👋
+I love learning HTML, CSS, and JavaScript to improve my web development skills.
+I enjoy experimenting with coding challenges and finding creative solutions to technical problems.
+I spend my time playing tennis, watching science fiction or adventure movies, and experimenting with baking.
 
 <!--
 **maryoritm/maryoritm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
